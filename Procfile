@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT repo_doc_2375.wsgi:application
